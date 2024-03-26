@@ -64,7 +64,7 @@ module SkillfindTech
               end
 
               def asset_names
-                @asset_names ||= %i[chevron]
+                @asset_names ||= %i[chevron camera]
               end
             end
           end

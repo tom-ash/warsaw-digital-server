@@ -1,0 +1,14 @@
+{
+  "texts": {
+    "headingOne": "Zarejestruj",
+    "emailInputLabel": "Adres email",
+    "emailInputPlaceholder": "Podaj adres email",
+    "emailInputInvalidError": "Nieprawidłowy adres email.",
+    "passwordInputLabel": "Hasło",
+    "passwordInputPlaceholder": "Podaj hasło",
+    "passwordInputInvalidError": "Hasło powinno się składać z conajmniej 6 znaków.",
+    "termsOfServiceConsentNotGrantedError": "Akceptacja Regulaminu jest wymagana.",
+    "submitFormButtonLabel": "Zarejestruj",
+    "logoUploadInstructions": "Kliknij na aparat fotograficzny, aby dodać logo."
+  }
+}

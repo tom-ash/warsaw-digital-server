@@ -31,6 +31,6 @@
       "label": "Employment",
       "instructions": "Provide monthly gross salary range within employment cooperation."
     }
-  ]
-
+  ],
+  "picturesUploadInstructions": "Click on the camera to add pictures."
 }

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2024_03_20_161932) do
+ActiveRecord::Schema[7.0].define(version: 2024_03_27_065624) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -164,6 +164,7 @@ ActiveRecord::Schema[7.0].define(version: 2024_03_20_161932) do
     t.datetime "email_verified_at", precision: nil
     t.datetime "deleted_at", precision: nil
     t.jsonb "author_data"
+    t.string "logo"
   end
 
   add_foreign_key "images", "users", column: "added_by_id", name: "images_added_by_id_fkey"

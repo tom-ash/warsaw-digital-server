@@ -16,7 +16,8 @@
     "grossRentAmountInputLabel": "Miesięczna cena",
     "addPromotionCheckboxLabel": "Wyróżnij ogłoszenie za 19 PLN",
     "submitWithoutPromotionButtonLabel": "Dodaj bez wyróżnienia",
-    "submitWithPromotionButtonLabel": "Dodaj z wyróżnieniem"
+    "submitWithPromotionButtonLabel": "Dodaj z wyróżnieniem",
+    "picturesUploadInstructions": "Kliknij na aparat fotograficzny, aby dodać zdjęcia."
   },
   "en": {
     "categoryHeading": "Category",
@@ -35,6 +36,7 @@
     "grossRentAmountInputLabel": "Monthly Price",
     "addPromotionCheckboxLabel": "Promote the listing for 19 PLN",
     "submitWithoutPromotionButtonLabel": "Add Without Promotion",
-    "submitWithPromotionButtonLabel": "Add With Promotion"
+    "submitWithPromotionButtonLabel": "Add With Promotion",
+    "picturesUploadInstructions": "Click on the camera to add pictures."
   }
 }

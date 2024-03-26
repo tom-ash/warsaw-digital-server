@@ -35,7 +35,6 @@ module MapawynajmuPl
                 {
                   step: 'form',
                   addingPicture: false,
-                  savingListing: false,
                   savingPicture: false,
                   resetMap: true,
                   mapOptions: {
